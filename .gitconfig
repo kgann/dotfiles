@@ -1,0 +1,9 @@
+[user]
+	name = Kyle Gann
+	email = kylegann@gmail.com
+[merge]
+	tool = opendiff
+[color]
+	ui = true
+[core]
+	editor = vim
