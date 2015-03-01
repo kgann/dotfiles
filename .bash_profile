@@ -31,3 +31,6 @@ alias z='zeus'
 alias diffmate='git diff | mate'
 alias lein-spec='lein spec -c --format=d'
 alias flushcache='dscacheutil -flushcache'
+
+# git
+alias gll="git log --pretty=format:'%C(cyan)%h %C(red)%an %Cgreen%s%Creset %ar' --abbrev-commit -n15"
